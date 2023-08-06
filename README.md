@@ -1,18 +1,30 @@
 # linager-lin
 Linode accounts manager via Telegram BOT linux version.
 
-<code>apt install git -y</code>
+```
+apt install git -y
+```
 
-<code>git clone https://github.com/m-tq/linager-lin.git</code>
+```
+git clone https://github.com/m-tq/linager-lin.git
+```
 
-<code>cd linager-lin</code>
+```
+cd linager-lin
+```
 
-<code>pip install -r reqs/reqs.txt</code>
+```
+pip install -r reqs/reqs.txt
+```
 
 put your 'telegram token' from @BotFather to bot_token
 
-<code>python3 linager_trial.py</code>
+```
+python3 linager_trial.py
+```
 
 or
 
-<code>python linager_trial.py</code>
+```
+python linager_trial.py
+```
