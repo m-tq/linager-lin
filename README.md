@@ -28,3 +28,8 @@ or
 ```
 python linager_trial.py
 ```
+
+*troubleshoot:
+```
+pip install urllib3 --upgrade
+```
