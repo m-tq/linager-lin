@@ -12,3 +12,7 @@ Linode accounts manager via Telegram BOT linux version.
 put your 'telegram token' from @BotFather to bot_token
 
 <code>python3 linager_trial.py</code>
+
+or
+
+<code>python linager_trial.py</code>
